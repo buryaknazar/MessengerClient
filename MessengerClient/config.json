@@ -1,0 +1,11 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "MyConnString": "Data Source=DESKTOP-T33BF5Q; Initial Catalog=chat_archive; Integrated Security=true"
+}
